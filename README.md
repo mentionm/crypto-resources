@@ -148,7 +148,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Bybit Learn](https://learn.bybit.com/trading/) - Bybit's trading and investing lessons.
 
 ### 🐦 Twitters to Follow
-- [Click here](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
+[Click here to find full Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
 
 ## 🖼️ NFTs
 
@@ -182,7 +182,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Two Bored Apes](https://www.twoboredapes.com/) -  Two friends that just love talking about NFTs. On this podcast, they chat about whatever new and exciting stuff is going on in the NFT space.
 
 ### 🐧 Twitters to Follow NFTs
-- [Click here](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
+[Click here to find full Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
 
 ***Attention: Double check the links before registering, logging in or connecting to the Dapp using Metamask, Phantom or any other wallet.***
 
