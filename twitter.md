@@ -14,7 +14,10 @@
 - [Anbessa](https://twitter.com/Anbessa100) - Crypto charts sniper.
 - [Barry Silbert](https://twitter.com/BarrySilbert) - A whale, parent of Grayscale, Coindesk, Luno, etc.
 - [Alex Svanevik](https://twitter.com/ASvanevik) - CEO of Nansen.ai.
-- [Crypto Rand](https://twitter.com/crypto_rand) - Trader and investor, blockchain advisor.  
+- [Crypto Rand](https://twitter.com/crypto_rand) - Trader and investor, blockchain advisor.
+- [Larry Cermak](https://twitter.com/lawmaster) - VP of Research at The Block.
+- [Hsaka Trader](https://twitter.com/HsakaTrades) - Pro crypto trader.
+
 
 ### 🐧 Twitter Accounts to follow NFTs
 - [Pranksy](https://twitter.com/pranksy) - A whale.
@@ -24,3 +27,4 @@
 - [SOL Buckets](https://twitter.com/SOLbuckets) - SOL NFTs collector.
 - [fxnction](https://twitter.com/0x_fxnction) - NFTs degen.
 - [Cole](https://twitter.com/ColeThereum) - Co-founder of Pudgy Penguins NFT.
+- [DCinvΞstor](https://twitter.com/iamDCinvestor) - Collector of digital art & supporter of decentralization.

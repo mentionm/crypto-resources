@@ -27,9 +27,13 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [FX Street](https://www.fxstreet.com/cryptocurrencies/news)
 - [Marketwatch](https://www.marketwatch.com/investing/cryptocurrency)
 
-### 📈 Cryptocurrency Prices
+### 📈 Cryptocurrency Prices, Open Interest, Liquidations, etc.
 - [Coinmarketcap](https://coinmarketcap.com/) - The biggest portal that provides cryptocurrency prices, market cap, 24h volume, price changes, and more.
 - [CoinGecko](https://www.coingecko.com/en) - 2nd biggest site for market cap, prices, crypto markets availability, volumes, etc.
+- [Coinalyze](https://coinalyze.net/) - The professional traders analytics platform: live prices and charts, aggregated open interest, funding rate, liquidations, statistics, and more.
+- [ViewBase](https://www.viewbase.com/) - Aggregated, clean and actionable data for digital asset markets across exchanges, assets and instruments.
+- [Datamish](https://datamish.com/) - Longs vs shorts, interest rates, and more.
+- [Cryptorank](https://cryptorank.io/) - Advanced crypto prices list with top gainers, top lossers, 
 
 ### 👓 Blockchain Explorers
 - [Ether Scan](https://etherscan.io/) - Etherum blockchain explorer.
@@ -76,6 +80,8 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Polka Starter](https://polkastarter.com/) - Polka-based launchpad.
 - [Binance Launchpad](https://launchpad.binance.com/en) - Binance's token launch platform.
 - [StarTerra](https://starterra.io/) - the first gamified launchpad for Terra.
+- [BSCPad](https://bscpad.com/) - The first decentralized IDO platform for the Binance Smart Chain Network.
+- [Seedify](https://launchpad.seedify.fund/) - It's a Blockchain Gaming focused Incubator and Launchpad operating on BSC.
 
 ### 👛 Wallets 
 - [Metamask](https://metamask.io/) - Most popular crypto wallet & gateway to blockchain apps. Supports Ethereum, BSC, Avax and many more blockchains.
@@ -121,15 +127,6 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Koroush AK](https://www.youtube.com/channel/UCQEBsgNV0RGm1O2iOMDbZjA) - videos on trading, investing, business.
 - [The Wolf of All Streets](https://www.youtube.com/scottmelker) - Podcasts in video form, trading analysis, market reviews.
 
-### 🤖 Subreddits
-- [Bitcoin Reddit](https://www.reddit.com/r/Bitcoin/)
-- [Cryptocurrency Reddit](https://www.reddit.com/r/CryptoCurrency/)
-- [Cryptocurrency Trading Reddit](https://www.reddit.com/r/CryptoCurrencyTrading/)
-- [Bitcoin Market Reddit](https://www.reddit.com/r/BitcoinMarkets/)
-- [Bitcoin for Beginners Reddit](https://www.reddit.com/r/BitcoinBeginners/)
-- [Ethereum Reddit](https://www.reddit.com/r/ethereum/)
-- [Binance Reddit](https://www.reddit.com/r/binance/)
-
 ### 💻 Blogs
 - [Vitalik Buterin's Blog](https://vitalik.ca/) - the creator of Ethereum shares his minds.
 - [Erik Voorhees' Medium](https://erikvoorhees.medium.com/) - Founder of ShapeShift, [Erik Voorhees](https://twitter.com/erikvoorhees) collection of Medium articles.
@@ -146,9 +143,10 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Investopedia](https://www.investopedia.com/) - Basics to trading.
 - [BloodGoodBTC](https://bloodgoodbtc.com/) - trading guide created by [BloodGoodBTC](https://twitter.com/bloodgoodBTC).
 - [Bybit Learn](https://learn.bybit.com/trading/) - Bybit's trading and investing lessons.
+- [TA Lessons by Hsaka](https://medium.com/@kuraratnit/ta-lessons-by-hsaka-336f2dbb6c1f) - Technical analysis lessons by [Hsaka](https://twitter.com/HsakaTrades).
 
 ### 🐦 Twitters to Follow
-[Click here to find full Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
+[Click here to jump to Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
 
 ## 🖼️ NFTs
 
@@ -182,7 +180,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Two Bored Apes](https://www.twoboredapes.com/) -  Two friends that just love talking about NFTs. On this podcast, they chat about whatever new and exciting stuff is going on in the NFT space.
 
 ### 🐧 Twitters to Follow NFTs
-[Click here to find full Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
+[Click here to jump to Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
 
 ***Attention: Double check the links before registering, logging in or connecting to the Dapp using Metamask, Phantom or any other wallet.***
 
