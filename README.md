@@ -1,5 +1,6 @@
 # Crypto Resources
 
+
 A curated list of various crypto resources for beginners, middle-level, and advanced users.
 You can create Pull Requests with your suggested additions or edits.
 
@@ -82,6 +83,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [StarTerra](https://starterra.io/) - the first gamified launchpad for Terra.
 - [BSCPad](https://bscpad.com/) - The first decentralized IDO platform for the Binance Smart Chain Network.
 - [Seedify](https://launchpad.seedify.fund/) - It's a Blockchain Gaming focused Incubator and Launchpad operating on BSC.
+- [Solanium](https://www.solanium.io/) - Huge launchpad for SOL projects. 
 
 ### 👛 Wallets 
 - [Metamask](https://metamask.io/) - Most popular crypto wallet & gateway to blockchain apps. Supports Ethereum, BSC, Avax and many more blockchains.
@@ -104,13 +106,13 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 *Attention: Buy hardware wallets only from official distributor!*
 
 ### 📨 Newsletters
-- [Market Meditations](https://koroushak.substack.com/) - An awesome free crypto newsletter with a lot of very useful information. Delivered by [Koroush AK](https://twitter.com/KoroushAK).
+- [Market Meditations](https://koroushak.substack.com/) - An awesome free crypto newsletter with a lot of very useful information. Delivered by [@Koroush AK](https://twitter.com/KoroushAK).
 - [TechnicalRoundup](https://technicalroundup.com/) - Technical crypto analysis.
 - [Coindesk Newsletter](https://www.coindesk.com/newsletters/) - a number of newsletters by different topics. Powered by Coindesk news portal.
-- [The Held Report](https://www.theheldreport.com/) - Delivered by growth at Kraken exchange, [Dan Held](https://twitter.com/danheld). 
+- [The Held Report](https://www.theheldreport.com/) - Delivered by growth at Kraken exchange, [@Dan Held](https://twitter.com/danheld). 
 
 ### 🗣️ Podcasts
-- [TechnicalRoundup](https://open.spotify.com/show/745BkWn6VM3JqGw510k16U?si=ZLKmI91pQeihezGiYKKQvw&nd=1) - the creators of TechnicalRoundup newsletter ([CryptoCred](https://twitter.com/CryptoCred) and [DonAlt](https://twitter.com/CryptoDonAlt)) talk with crypto's top traders, investors, and builders.
+- [TechnicalRoundup](https://open.spotify.com/show/745BkWn6VM3JqGw510k16U?si=ZLKmI91pQeihezGiYKKQvw&nd=1) - the creators of TechnicalRoundup newsletter ([@CryptoCred](https://twitter.com/CryptoCred) and [@DonAlt](https://twitter.com/CryptoDonAlt)) talk with crypto's top traders, investors, and builders.
 - [WAGMI](https://www.venturecoinist.com/) - We're All Gonna Make It! Talks with traders, investors, analysts, entrepreneurs, discussions about success stories, insights and more. Hosted by [Luke Martin](https://twitter.com/VentureCoinist).
 - [What Bitcoin Did](https://www.whatbitcoindid.com/) - Host [Peter McCormack](https://twitter.com/PeterMcCormack) interviews experts in the world of Bitcoin development, privacy, investment and adoption.
 - [Untold Stories](https://blockworks.co/podcasts/untold-stories/) - Host [Charlie Shrem](https://twitter.com/CharlieShrem) dives deep into the lives and personal histories of some of crypto’s most influential leaders. A focus on personal stories weaves together a nuanced, untold narrative of how the crypto movement truly came to be.
@@ -119,8 +121,8 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 
 ### 📹 Youtube Channels
 - [Andreas Antonopoulos](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ) - aantonop's YouTube channel is THE place to find free, unbiased educational videos on all things Bitcoin and open blockchain.
-- [UpOnlyTV](https://uponly.tv/) - Brought by [Cobie](https://twitter.com/CryptoCobain) and [Ledger](https://twitter.com/ledgerstatus). Live on [Twitch](https://twitch.tv/uponlytv). Available in a form of podcast too on Spotify, Google, Apple.
-- [Altcoin Psycho](https://www.youtube.com/c/AltcoinPsycho) - official [Altcoin Psycho](https://twitter.com/AltcoinPsycho) Youtube channel discussing crypto markets.
+- [UpOnlyTV](https://uponly.tv/) - Brought by [@Cobie](https://twitter.com/cobie) and [Ledger](https://twitter.com/ledgerstatus). Live on [Twitch](https://twitch.tv/uponlytv). Available in a form of podcast too on Spotify, Google, Apple.
+- [Altcoin Psycho](https://www.youtube.com/c/AltcoinPsycho) - official [@Altcoin Psycho](https://twitter.com/AltcoinPsycho) Youtube channel discussing crypto markets.
 - [Crypto Cred](https://www.youtube.com/c/CryptoCred) -  Cryptocurrency technical analysis, with a focus on Bitcoin price action and educational content.
 - [TechnicalRoundup](https://www.youtube.com/c/TechnicalRoundup) -  TechnicalRoundup is a cryptocurrency trading and analysis channel hosted by CryptoDonAlt and CryptoCred. The newsletter and podcast are also available.
 - [The Birb Nest](https://www.youtube.com/c/TheBirbNest) - crypto market reviews, on-chain analysis, and a lot of educational content about crypto technologies.
@@ -129,7 +131,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 
 ### 💻 Blogs
 - [Vitalik Buterin's Blog](https://vitalik.ca/) - the creator of Ethereum shares his minds.
-- [Erik Voorhees' Medium](https://erikvoorhees.medium.com/) - Founder of ShapeShift, [Erik Voorhees](https://twitter.com/erikvoorhees) collection of Medium articles.
+- [Erik Voorhees' Medium](https://erikvoorhees.medium.com/) - Founder of ShapeShift, [@Erik Voorhees](https://twitter.com/erikvoorhees) collection of Medium articles.
 
 ### 📚 Learning
 - [Kraken's Crypto 101](https://www.kraken.com/learn/videos/crypto-101) - Video course by Kraken that includes dictionary and crypto basics.
@@ -141,9 +143,9 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 #### Trading
 - [CryptoCred TA Course](https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit) - [@CryptoCred](https://twitter.com/CryptoCred) crypto technical analysis lessons. *Recommended*
 - [Investopedia](https://www.investopedia.com/) - Basics to trading.
-- [BloodGoodBTC](https://bloodgoodbtc.com/) - trading guide created by [BloodGoodBTC](https://twitter.com/bloodgoodBTC).
+- [BloodGoodBTC](https://bloodgoodbtc.com/) - trading guide created by [@BloodGoodBTC](https://twitter.com/bloodgoodBTC).
 - [Bybit Learn](https://learn.bybit.com/trading/) - Bybit's trading and investing lessons.
-- [TA Lessons by Hsaka](https://medium.com/@kuraratnit/ta-lessons-by-hsaka-336f2dbb6c1f) - Technical analysis lessons by [Hsaka](https://twitter.com/HsakaTrades).
+- [TA Lessons by Hsaka](https://medium.com/@kuraratnit/ta-lessons-by-hsaka-336f2dbb6c1f) - Technical analysis lessons by [@Hsaka](https://twitter.com/HsakaTrades).
 
 ### 🐦 Twitters to Follow
 [Click here to jump to Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
@@ -165,14 +167,32 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [SolSea](https://solsea.io/) - SOL NFTs marketplace that allows embeding copyright licenses when minting.
 - [Exchange Art](https://exchange.art/) - SOL NFTs marketplace with a FLEX function.
 - [FTX.US NFTs](https://ftx.us/nfts) - FTX NFTs marketplace (centralized). *Available worldwide*
+- [Rabbit Hole](https://rabbithole.market/) - New SOL NFTs marketplace.
 
 #### BSC
 - [Binance NFT](https://www.binance.com/en/nft/home) - Official Binance NFTs marketplace.
+
+#### Other markets
+- [Crypto.com NFTs](https://crypto.com/nft/) - Crypto.com NFTs market (operates on CRO).
 
 ### 👀 NFTs Rarity Check
 - [Rarity Tools](https://rarity.tools/) - Check your ETH NFT rarity.
 - [HowRare.is](https://howrare.is/) - SOL NFTs rarity checker.
 - [Rarity Sniper](https://raritysniper.com/) - Universal NFTs rarity checker that works with SOL and ETH. Also, allows checking the rarity via Discord server.
+- [Moment Ranks](https://momentranks.com) - Powerful NFTs tool with tons of features. Allows to follow whales accounts too.
+- [Rarity Sniffer](https://v2.raritysniffer.com/index) - A rarity tool that catches collections shortly after mint process completes.
+- [MoonRank](https://moonrank.app/) - Holds a big collection of SOL NFTs.
+- [RarityMon](https://www.raritymon.com/) - Universal rarity checker for ETH and SOL.
+
+## 📆 Calendars
+- [NFT Calendar](https://nftcalendar.io/) - a database of upcoming NFT drops (both, SOL and ETH).
+- [NFT SOL](https://nftsolana.io/) - A list of upcoming SOL NFTs with Google Calendar feature. *Missing some solid projects*
+
+## 🔧 Other Tools
+- [Nansen](https://www.nansen.ai/) - On-Chain analysis tool for tracking ETH wallets activity and their actions. Has a separate section for NFTs.
+- [Solradar](https://solradar.io/) - Check floors, volumes, listed count, and more. Works on SOL only.
+- [Solanalysis](https://solanalysis.com/) - Market caps, floors, performance stats of various SOL NFTs. Also, has a list of Upcoming NFTs.
+
 
 ### 🗣️ Podcasts
 - [Floor is Rising](https://www.floorisrising.com/) - Discussions with artists and NFTs pros. Available on all podcast platforms.
@@ -184,4 +204,4 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 
 ***Attention: Double check the links before registering, logging in or connecting to the Dapp using Metamask, Phantom or any other wallet.***
 
-***Last update: 12/08/2021***
+***Last update: 12/23/2021***
