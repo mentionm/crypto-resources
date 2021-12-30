@@ -209,4 +209,4 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 
 ***Attention: Double check the links before registering, logging in or connecting to the Dapp using Metamask, Phantom or any other wallet.***
 
-***Last update: 12/29/2021***
+***Last update: 12/30/2021***

@@ -31,4 +31,5 @@
 - [Cole](https://twitter.com/ColeThereum) - Co-founder of Pudgy Penguins NFT.
 - [DCinvΞstor](https://twitter.com/iamDCinvestor) - Collector of digital art & supporter of decentralization.
 - [S◎L Big Brain](https://twitter.com/SOLBigBrain) - Lots of useful tips and insights regarding SOL NFTs.
-- 
+
+***Last update: 12/30/2021***
