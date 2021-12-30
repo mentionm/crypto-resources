@@ -5,7 +5,7 @@ A curated list of various crypto resources for beginners, middle-level, and adva
 You can create Pull Requests with your suggested additions or edits.
 
 **Disclaimer: Do your own due dilligence before using any of the resources provided.
-Twitter acounts to follow is a personal opinion. It contains many Twitter personas that shares a lot of good information. However, it must be taken with a grain of salt.**
+Twitter acounts to follow is a personal opinion. It contains many Twitter personas that share a lot of good information. However, it must be taken with a grain of salt.**
 
 
 ## ₿ Crypto
@@ -103,13 +103,15 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Trezor](https://trezor.io/) - Trezor hardware wallet.
 - [KeepKey](https://shapeshift.com/keepkey) - KeepKey hardware wallet.
 
-*Attention: Buy hardware wallets only from official distributor!*
+*Attention: Buy hardware wallet only from an official distributor!*
 
 ### 📨 Newsletters
 - [Market Meditations](https://koroushak.substack.com/) - An awesome free crypto newsletter with a lot of very useful information. Delivered by [@Koroush AK](https://twitter.com/KoroushAK).
 - [TechnicalRoundup](https://technicalroundup.com/) - Technical crypto analysis.
 - [Coindesk Newsletter](https://www.coindesk.com/newsletters/) - a number of newsletters by different topics. Powered by Coindesk news portal.
-- [The Held Report](https://www.theheldreport.com/) - Delivered by growth at Kraken exchange, [@Dan Held](https://twitter.com/danheld). 
+- [The Held Report](https://www.theheldreport.com/) - Delivered by growth at Kraken exchange, [@Dan Held](https://twitter.com/danheld).
+- [Cobie's Newsletter](https://cobie.substack.com/) - Deeper insights about crypto markets action and fundamentals.
+- [Messari Newsletter](https://messari.io/newsletter) - Top crypto news every day, every morning.
 
 ### 🗣️ Podcasts
 - [TechnicalRoundup](https://open.spotify.com/show/745BkWn6VM3JqGw510k16U?si=ZLKmI91pQeihezGiYKKQvw&nd=1) - the creators of TechnicalRoundup newsletter ([@CryptoCred](https://twitter.com/CryptoCred) and [@DonAlt](https://twitter.com/CryptoDonAlt)) talk with crypto's top traders, investors, and builders.
@@ -184,7 +186,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [MoonRank](https://moonrank.app/) - Holds a big collection of SOL NFTs.
 - [RarityMon](https://www.raritymon.com/) - Universal rarity checker for ETH and SOL.
 
-## 📆 Calendars
+### 📆 Calendars
 - [NFT Calendar](https://nftcalendar.io/) - a database of upcoming NFT drops (both, SOL and ETH).
 - [NFT SOL](https://nftsolana.io/) - A list of upcoming SOL NFTs with Google Calendar feature. *Missing some solid projects*
 
@@ -193,15 +195,18 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Solradar](https://solradar.io/) - Check floors, volumes, listed count, and more. Works on SOL only.
 - [Solanalysis](https://solanalysis.com/) - Market caps, floors, performance stats of various SOL NFTs. Also, has a list of Upcoming NFTs.
 
+### 📨 Newsletters
+-[Zima Red](https://andrewsteinwold.substack.com/) - Deep dive into the NFT markets. Provided by [@Andrew Steinwold](https://twitter.com/AndrewSteinwold).
 
 ### 🗣️ Podcasts
 - [Floor is Rising](https://www.floorisrising.com/) - Discussions with artists and NFTs pros. Available on all podcast platforms.
 - [Deeze Spaces](https://open.spotify.com/show/4HzjKTLo8v17qJZaIwCl15?si=zEzkcTqUQyqTvjjmSGxHdQ&dl_branch=1&nd=1) - Chats with the most interesting creators and collectors in the NFT world.
 - [Two Bored Apes](https://www.twoboredapes.com/) -  Two friends that just love talking about NFTs. On this podcast, they chat about whatever new and exciting stuff is going on in the NFT space.
+- [Modern Finance](https://modern.finance/) - Wide range podcast about DeFi, crypto, etc. Lately, making lots of content about NFTs.
 
 ### 🐧 Twitters to Follow NFTs
 [Click here to jump to Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
 
 ***Attention: Double check the links before registering, logging in or connecting to the Dapp using Metamask, Phantom or any other wallet.***
 
-***Last update: 12/23/2021***
+***Last update: 12/29/2021***

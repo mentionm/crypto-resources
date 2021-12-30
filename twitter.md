@@ -17,9 +17,11 @@
 - [Crypto Rand](https://twitter.com/crypto_rand) - Trader and investor, blockchain advisor.
 - [Larry Cermak](https://twitter.com/lawmaster) - VP of Research at The Block.
 - [Hsaka Trader](https://twitter.com/HsakaTrades) - Pro crypto trader.
+- [Cryptophatic](https://twitter.com/Cryptopathic) - Deep view of crypto space and markets.
+- [Pentoshi](https://twitter.com/Pentosh1) - Giga-brain trader.
 
 
-### 🐧 Twitter Accounts to follow NFTs
+### 🐧 Twitter Accounts to follow (NFTs)
 - [Pranksy](https://twitter.com/pranksy) - A whale.
 - [6529](https://twitter.com/punk6529) - NFTs whale.
 - [DeeZe](https://twitter.com/DeezeFi) - shares a lot of good insights.
@@ -28,3 +30,5 @@
 - [fxnction](https://twitter.com/0x_fxnction) - NFTs degen.
 - [Cole](https://twitter.com/ColeThereum) - Co-founder of Pudgy Penguins NFT.
 - [DCinvΞstor](https://twitter.com/iamDCinvestor) - Collector of digital art & supporter of decentralization.
+- [S◎L Big Brain](https://twitter.com/SOLBigBrain) - Lots of useful tips and insights regarding SOL NFTs.
+- 
