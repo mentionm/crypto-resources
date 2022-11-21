@@ -1,6 +1,6 @@
 ### 🐦 Twitter Accounts to follow
 - [CZ](https://twitter.com/cz_binance) - CEO of Binance.
-- [Sam Bankman](https://twitter.com/SBF_FTX) - CEO of FTX.
+- [Sam Bankman](https://twitter.com/SBF_FTX) - Former CEO of FTX. **ATTENTION!** [Must read about FTX crisis](https://en.wikipedia.org/wiki/FTX_financial_crisis).
 - [Sam Trabucco](https://twitter.com/AlamedaTrabucco) - CEO of Alameda Research.
 - [CryptoCobain](https://twitter.com/CryptoCobain) - literally travels in time and drops alpha.
 - [Bitcoin Archive](https://twitter.com/BTC_Archive) - daily dose of BTC facts.
