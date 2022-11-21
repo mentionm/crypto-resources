@@ -1,7 +1,7 @@
 ### 🐦 Twitter Accounts to follow
 - [CZ](https://twitter.com/cz_binance) - CEO of Binance.
 - [Sam Bankman](https://twitter.com/SBF_FTX) - Former CEO of FTX. **ATTENTION!** [Must read about FTX crisis](https://en.wikipedia.org/wiki/FTX_financial_crisis).
-- [Sam Trabucco](https://twitter.com/AlamedaTrabucco) - CEO of Alameda Research.
+- [Sam Trabucco](https://twitter.com/AlamedaTrabucco) - Former CEO of Alameda Research.
 - [CryptoCobain](https://twitter.com/CryptoCobain) - literally travels in time and drops alpha.
 - [Bitcoin Archive](https://twitter.com/BTC_Archive) - daily dose of BTC facts.
 - [Koroush AK](https://twitter.com/KoroushAK) - The creator of Market Meditations newsletter.
@@ -28,8 +28,8 @@
 - [Farokh.eth](https://twitter.com/farokh) - a lot of alpha.
 - [SOL Buckets](https://twitter.com/SOLbuckets) - SOL NFTs collector.
 - [fxnction](https://twitter.com/0x_fxnction) - NFTs degen.
-- [Cole](https://twitter.com/ColeThereum) - Co-founder of Pudgy Penguins NFT.
+- [Cole](https://twitter.com/ColeThereum) - Co-founder of Pudgy Penguins NFT (it was sold to [LucaNetz](https://twitter.com/LucaNetz))
 - [DCinvΞstor](https://twitter.com/iamDCinvestor) - Collector of digital art & supporter of decentralization.
 - [S◎L Big Brain](https://twitter.com/SOLBigBrain) - Lots of useful tips and insights regarding SOL NFTs.
 
-***Last update: 12/30/2021***
+***Last update: 11/21/2022***
