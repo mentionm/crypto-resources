@@ -209,4 +209,8 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 
 ***Attention: Double check the links before registering, logging in or connecting to the Dapp using Metamask, Phantom or any other wallet.***
 
-***Last update: 12/30/2021***
+### Sponsors
+
+[![NoAccountCasinos](https://noaccountcasinos.io/images/site-logo.png)](https://noaccountcasinos.io/fi/)
+
+***Last update: 11/21/2022***
