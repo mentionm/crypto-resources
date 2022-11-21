@@ -48,8 +48,8 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Binance](https://www.binance.com/) - One of the leading exchanges with the biggest trading volume.
 - [Binance US](https://www.binance.us/en/home) - Binance version for US.
 - [Coinbase](https://www.coinbase.com/) - Easy to use crypto exchange.
-- [FTX](https://ftx.com/) - One of the fastest growing exchanges.
-- [FTX US](https://ftx.us/) - FTX version for US.
+- ~~[FTX](https://ftx.com/) - One of the fastest growing exchanges.~~ [FTX bankrupt](https://en.wikipedia.org/wiki/FTX_financial_crisis)
+- ~~[FTX US](https://ftx.us/) - FTX version for US.~~ [FTX bankrupt](https://en.wikipedia.org/wiki/FTX_financial_crisis)
 - [Kucoin](https://www.kucoin.com/) - An exchange with a great support of many cryptocurrencies.
 - [Gate.io](https://www.gate.io/) - Many smaller coins are supported on this exchange.
 - [Bybit](https://www.bybit.com/) - Spot and derivatives crypto exchange with a huge volume.
