@@ -29,12 +29,12 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Marketwatch](https://www.marketwatch.com/investing/cryptocurrency)
 
 ### 📈 Cryptocurrency Prices, Open Interest, Liquidations, etc.
-- [Coinmarketcap](https://coinmarketcap.com/) - The biggest portal that provides cryptocurrency prices, market cap, 24h volume, price changes, and more.
+- [Coinmarketcap](https://coinmarketcap.com/) - The biggest portal that provides cryptocurrency prices, market cap, 24-hour volume, price changes, and more.
 - [CoinGecko](https://www.coingecko.com/en) - 2nd biggest site for market cap, prices, crypto markets availability, volumes, etc.
-- [Coinalyze](https://coinalyze.net/) - The professional traders analytics platform: live prices and charts, aggregated open interest, funding rate, liquidations, statistics, and more.
-- [ViewBase](https://www.viewbase.com/) - Aggregated, clean and actionable data for digital asset markets across exchanges, assets and instruments.
+- [Coinalyze](https://coinalyze.net/) - The professional trader analytics platform: live prices and charts, aggregated open interest, funding rate, liquidations, statistics, and more.
+- [ViewBase](https://www.viewbase.com/) - Aggregated, clean, and actionable data for digital asset markets across exchanges, assets and instruments.
 - [Datamish](https://datamish.com/) - Longs vs shorts, interest rates, and more.
-- [Cryptorank](https://cryptorank.io/) - Advanced crypto prices list with top gainers, top lossers, 
+- [Cryptorank](https://cryptorank.io/) - Advanced crypto prices list with top gainers, top losers, 
 
 ### 👓 Blockchain Explorers
 - [Ether Scan](https://etherscan.io/) - Etherum blockchain explorer.
@@ -42,7 +42,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Explorer Solana](https://explorer.solana.com/) - Official SOL blockchain explorer.
 - [SOL Scan](https://solscan.io/) - SOL blockchain explorer.
 - [Polygon Scan](https://polygonscan.com/) - Polygon blockchain exploer.
-- [Avax Explorer](https://explorer.avax.network/) - Avalanche blockchain explorer. 
+- [Avax Explorer](https://explorer.avax.network/) - Avalanche blockchain explorer.
 
 ### 🏦 Centralized Exchanges
 - [Binance](https://www.binance.com/) - One of the leading exchanges with the biggest trading volume.
@@ -54,15 +54,15 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Gate.io](https://www.gate.io/) - Many smaller coins are supported on this exchange.
 - [Bybit](https://www.bybit.com/) - Spot and derivatives crypto exchange with a huge volume.
 - [Bitstamp](https://www.bitstamp.net/) - Trusted crypto exchange operating since 2011.
-- [OKEx](https://www.okex.com/) - Seychelles-based cryptocurrency exchange with good selection of cryptocurrencies.
+- [OKEx](https://www.okex.com/) - Seychelles-based cryptocurrency exchange with a good selection of cryptocurrencies.
 - [Huobi Global](https://www.huobi.com/) - Seychelles-based cryptocurrency founded in China with great volumes.
-- [Bitpanda](https://www.bitpanda.com/) - Austria based exchange that supports cryptos, stocks and commodities. Issues a bank card for EU customers.
+- [Bitpanda](https://www.bitpanda.com/) - Austria-based exchange that supports cryptos, stocks, and commodities. Issues a bank card for EU customers.
 - [Deribit](https://www.deribit.com/) - Crypto futures and options exchange.
 
-### 💱 Dezentralized Exchanges and Swaps
+### 💱 Decentralized Exchanges and Swaps
 - [Uniswap](https://uniswap.org/) - Swap ERC tokens.
 - [Sushiswap](https://sushi.com/) - Swap ERC tokens.
-- [1Inch](https://app.1inch.io) - Swap tokens on Ethereum, BSC, Polygon, Optimism, Orbitrum blockchains.
+- [1Inch](https://app.1inch.io) - Swap tokens on Ethereum, BSC, Polygon, Optimism, and Arbitrum blockchains.
 - [Pancakeswap](https://pancakeswap.finance/) - Swap BSC tokens.
 - [Binance DEX](https://www.binance.org/en) - Powered by Binance. Dex for BSC blockchain tokens.
 - [Raydium](https://raydium.io/swap/) - Swap SOL tokens.
@@ -73,7 +73,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Crypto.com](https://crypto.com/) - Leading mobile app allowing to instantly buy 200+ cryptos. **Issues Visa card!**
 - [Trust Wallet](https://trustwallet.com/) - Hundreds of cryptos supported. Allows buying with a card.
 
-*There are hundreds of crypto exchanges and apps available. Here is mentioned only most popular and well-known sites. You can use [Coingecko crypto exchanges list](https://www.coingecko.com/en/exchanges) by volume, number of coins, pairs, etc.*
+*There are hundreds of crypto exchanges and apps available. Here is mentioned only the most popular and well-known sites. You can use [Coingecko crypto exchanges list](https://www.coingecko.com/en/exchanges) by volume, number of coins, pairs, etc.*
 
 ### 🚀 Launchpads
 - [DAO Maker](https://daomaker.com/) - Popular multi-chain launchpad with in-depth research feature.
@@ -86,11 +86,11 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Solanium](https://www.solanium.io/) - Huge launchpad for SOL projects. 
 
 ### 👛 Wallets 
-- [Metamask](https://metamask.io/) - Most popular crypto wallet & gateway to blockchain apps. Supports Ethereum, BSC, Avax and many more blockchains.
-- [Trust Wallet](https://trustwallet.com/) - One of the most trusted crypto wallets. Also, allows seeing NFT collecitbles. Available on iOS and Android. *Listed on Mobile Apps for buying and trading category too.*
+- [Metamask](https://metamask.io/) - Most popular crypto wallet & gateway to blockchain apps. Supports Ethereum, BSC, Avax, and many more blockchains.
+- [Trust Wallet](https://trustwallet.com/) - One of the most trusted crypto wallets. Also, allows see NFT collectibles. Available on iOS and Android. *Listed on Mobile Apps for buying and trading category too.*
 - [Crypto.com](https://crypto.com/) - One of the most popular crypto wallets. Works on mobile devices only. *Listed on Mobile Apps for buying and trading category too.*
 - [Rainbow](https://rainbow.me/) - Simple to use Ethereum-based wallet. Mobile only.
-- [MEW](https://www.myetherwallet.com/) - MyEtherWallet. Supports ERC tokens and NFTs. Works on smarthpones only.
+- [MEW](https://www.myetherwallet.com/) - MyEtherWallet. Supports ERC tokens and NFTs. Works on smartphones only.
 - [WalletConnect](https://walletconnect.com/) - WalletConnect is the web3 standard to connect blockchain wallets to dapps. It supports most of the wallets listed here.
 - [Exodus](https://www.exodus.com/) - Popular multi-assets crypto wallet. Has desktop and mobile versions.
 
@@ -115,7 +115,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 
 ### 🗣️ Podcasts
 - [TechnicalRoundup](https://open.spotify.com/show/745BkWn6VM3JqGw510k16U?si=ZLKmI91pQeihezGiYKKQvw&nd=1) - the creators of TechnicalRoundup newsletter ([@CryptoCred](https://twitter.com/CryptoCred) and [@DonAlt](https://twitter.com/CryptoDonAlt)) talk with crypto's top traders, investors, and builders.
-- [WAGMI](https://www.venturecoinist.com/) - We're All Gonna Make It! Talks with traders, investors, analysts, entrepreneurs, discussions about success stories, insights and more. Hosted by [Luke Martin](https://twitter.com/VentureCoinist).
+- [WAGMI](https://www.venturecoinist.com/) - We're All Gonna Make It! Talks with traders, investors, analysts, and entrepreneurs, discussions about success stories, insights, and more. Hosted by [Luke Martin](https://twitter.com/VentureCoinist).
 - [What Bitcoin Did](https://www.whatbitcoindid.com/) - Host [Peter McCormack](https://twitter.com/PeterMcCormack) interviews experts in the world of Bitcoin development, privacy, investment and adoption.
 - [Untold Stories](https://blockworks.co/podcasts/untold-stories/) - Host [Charlie Shrem](https://twitter.com/CharlieShrem) dives deep into the lives and personal histories of some of crypto’s most influential leaders. A focus on personal stories weaves together a nuanced, untold narrative of how the crypto movement truly came to be.
 - [Empire](https://blockworks.co/podcasts/empire/) - Hosted by [Jason Yanowitz](https://twitter.com/JasonYanowitz), co-founder of Blockworks, the Empire podcast features interviews with top crypto founders to get the real stories that aren’t publicly shared about building companies.
@@ -123,12 +123,12 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 
 ### 📹 Youtube Channels
 - [Andreas Antonopoulos](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ) - aantonop's YouTube channel is THE place to find free, unbiased educational videos on all things Bitcoin and open blockchain.
-- [UpOnlyTV](https://uponly.tv/) - Brought by [@Cobie](https://twitter.com/cobie) and [Ledger](https://twitter.com/ledgerstatus). Live on [Twitch](https://twitch.tv/uponlytv). Available in a form of podcast too on Spotify, Google, Apple.
+- [UpOnlyTV](https://uponly.tv/) - Brought by [@Cobie](https://twitter.com/cobie) and [Ledger](https://twitter.com/ledgerstatus). Live on [Twitch](https://twitch.tv/uponlytv). Available in the form of podcasts on Spotify, Google, and Apple.
 - [Altcoin Psycho](https://www.youtube.com/c/AltcoinPsycho) - official [@Altcoin Psycho](https://twitter.com/AltcoinPsycho) Youtube channel discussing crypto markets.
 - [Crypto Cred](https://www.youtube.com/c/CryptoCred) -  Cryptocurrency technical analysis, with a focus on Bitcoin price action and educational content.
 - [TechnicalRoundup](https://www.youtube.com/c/TechnicalRoundup) -  TechnicalRoundup is a cryptocurrency trading and analysis channel hosted by CryptoDonAlt and CryptoCred. The newsletter and podcast are also available.
 - [The Birb Nest](https://www.youtube.com/c/TheBirbNest) - crypto market reviews, on-chain analysis, and a lot of educational content about crypto technologies.
-- [Koroush AK](https://www.youtube.com/channel/UCQEBsgNV0RGm1O2iOMDbZjA) - videos on trading, investing, business.
+- [Koroush AK](https://www.youtube.com/channel/UCQEBsgNV0RGm1O2iOMDbZjA) - videos on trading, investing, and business.
 - [The Wolf of All Streets](https://www.youtube.com/scottmelker) - Podcasts in video form, trading analysis, market reviews.
 
 ### 💻 Blogs
@@ -137,9 +137,9 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 
 ### 📚 Learning
 - [Kraken's Crypto 101](https://www.kraken.com/learn/videos/crypto-101) - Video course by Kraken that includes dictionary and crypto basics.
-- [Binance Academy](https://academy.binance.com/en/start-here) - more than 280 articles for every levels and in different languages.
-- [Andreas Antonopoulos site](https://aantonop.com/) - videos, workshops, blog, books.
-- [Ultimate Crypto Wealth Guide](https://koroushak.substack.com/p/ultimate-crypto-wealth-guide) - a huge collection of crypto resources, articles, lessons. Covers DeFi, NFTs, trading, altcoins, taxes, etc.
+- [Binance Academy](https://academy.binance.com/en/start-here) - more than 280 articles for every level and in different languages.
+- [Andreas Antonopoulos site](https://aantonop.com/) - videos, workshops, blogs, books.
+- [Ultimate Crypto Wealth Guide](https://koroushak.substack.com/p/ultimate-crypto-wealth-guide) - a huge collection of crypto resources, articles, and lessons. Covers DeFi, NFTs, trading, altcoins, taxes, etc.
 - [Bitpanda Academy](https://www.bitpanda.com/academy/en/levels/all) - A lot of different crypto lessons.
 
 #### Trading
@@ -150,7 +150,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [TA Lessons by Hsaka](https://medium.com/@kuraratnit/ta-lessons-by-hsaka-336f2dbb6c1f) - Technical analysis lessons by [@Hsaka](https://twitter.com/HsakaTrades).
 
 ### 🐦 Twitters to Follow
-[Click here to jump to Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
+[Click here to jump to the Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
 
 ## 🖼️ NFTs
 
@@ -166,10 +166,10 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Alpha.art](https://alpha.art/) - SOL NFTs marketplace with no fees.
 - [Magic Eden](https://magiceden.io/) - SOL NFTs marketplace with Launchpad for artists.
 - [Digital Eyes](https://digitaleyes.market/) - Solana's first open marketplace.
-- [SolSea](https://solsea.io/) - SOL NFTs marketplace that allows embeding copyright licenses when minting.
+- [SolSea](https://solsea.io/) - SOL NFTs marketplace that allows embedding copyright licenses when minting.
 - [Exchange Art](https://exchange.art/) - SOL NFTs marketplace with a FLEX function.
-- [FTX.US NFTs](https://ftx.us/nfts) - FTX NFTs marketplace (centralized). *Available worldwide*
-- [Rabbit Hole](https://rabbithole.market/) - New SOL NFTs marketplace.
+- ~~[FTX.US NFTs](https://ftx.us/nfts) - FTX NFTs marketplace (centralized).~~ *Went bankrupt*
+- ~~[Rabbit Hole](https://rabbithole.market/) - New SOL NFTs marketplace.~~ *Closed*
 
 #### BSC
 - [Binance NFT](https://www.binance.com/en/nft/home) - Official Binance NFTs marketplace.
@@ -180,9 +180,9 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 ### 👀 NFTs Rarity Check
 - [Rarity Tools](https://rarity.tools/) - Check your ETH NFT rarity.
 - [HowRare.is](https://howrare.is/) - SOL NFTs rarity checker.
-- [Rarity Sniper](https://raritysniper.com/) - Universal NFTs rarity checker that works with SOL and ETH. Also, allows checking the rarity via Discord server.
-- [Moment Ranks](https://momentranks.com) - Powerful NFTs tool with tons of features. Allows to follow whales accounts too.
-- [Rarity Sniffer](https://v2.raritysniffer.com/index) - A rarity tool that catches collections shortly after mint process completes.
+- [Rarity Sniper](https://raritysniper.com/) - Universal NFTs rarity checker that works with SOL and ETH. Also, allows checking the rarity via the Discord server.
+- ~~[Moment Ranks](https://momentranks.com) - Powerful NFTs tool with tons of features. It allows us to follow whales' accounts too.~~ *Not working*
+- [Rarity Sniffer](https://v2.raritysniffer.com/index) - A rarity tool that catches collections shortly after the mint process completes.
 - [MoonRank](https://moonrank.app/) - Holds a big collection of SOL NFTs.
 - [RarityMon](https://www.raritymon.com/) - Universal rarity checker for ETH and SOL.
 
@@ -192,25 +192,24 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 
 ## 🔧 Other Tools
 - [Nansen](https://www.nansen.ai/) - On-Chain analysis tool for tracking ETH wallets activity and their actions. Has a separate section for NFTs.
-- [Solradar](https://solradar.io/) - Check floors, volumes, listed count, and more. Works on SOL only.
-- [Solanalysis](https://solanalysis.com/) - Market caps, floors, performance stats of various SOL NFTs. Also, has a list of Upcoming NFTs.
+- ~~[Solradar](https://solradar.io/) - Check floors, volumes, listed count, and more. Works on SOL only.~~ *Closed*
+- ~~[Solanalysis](https://solanalysis.com/) - Market caps, floors, and performance stats of various SOL NFTs. Also, has a list of Upcoming NFTs.~~ *Not working*
 
 ### 📨 Newsletters
 -[Zima Red](https://andrewsteinwold.substack.com/) - Deep dive into the NFT markets. Provided by [@Andrew Steinwold](https://twitter.com/AndrewSteinwold).
+-[Milk Road](https://milkroad.com/) - Daily recap of the most important events in the crypto space. Also, some tips & insights. *Recommended*
+-[Alpha Packed](https://alphapacked.io/) - 7 minutes daily recap of crypto news & the biggest events.
 
 ### 🗣️ Podcasts
 - [Floor is Rising](https://www.floorisrising.com/) - Discussions with artists and NFTs pros. Available on all podcast platforms.
 - [Deeze Spaces](https://open.spotify.com/show/4HzjKTLo8v17qJZaIwCl15?si=zEzkcTqUQyqTvjjmSGxHdQ&dl_branch=1&nd=1) - Chats with the most interesting creators and collectors in the NFT world.
 - [Two Bored Apes](https://www.twoboredapes.com/) -  Two friends that just love talking about NFTs. On this podcast, they chat about whatever new and exciting stuff is going on in the NFT space.
-- [Modern Finance](https://modern.finance/) - Wide range podcast about DeFi, crypto, etc. Lately, making lots of content about NFTs.
+- [Modern Finance](https://modern.finance/) - Wide range of podcasts about DeFi, crypto, etc. Lately, making lots of content about NFTs.
 
 ### 🐧 Twitters to Follow NFTs
-[Click here to jump to Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
+[Click here to jump to the Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
 
-***Attention: Double check the links before registering, logging in or connecting to the Dapp using Metamask, Phantom or any other wallet.***
+***Attention: Double-check the links before registering, logging in, or connecting to the Dapp using Metamask, Phantom or any other wallet.***
 
-### Sponsors
 
-[![NoAccountCasinos](https://noaccountcasinos.io/images/site-logo.png)](https://noaccountcasinos.io/fi/)
-
-***Last update: 11/21/2022***
+***Last update: 11/08/2023***
