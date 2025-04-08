@@ -32,17 +32,26 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [Coinmarketcap](https://coinmarketcap.com/) - The biggest portal that provides cryptocurrency prices, market cap, 24-hour volume, price changes, and more.
 - [CoinGecko](https://www.coingecko.com/en) - 2nd biggest site for market cap, prices, crypto markets availability, volumes, etc.
 - [Coinalyze](https://coinalyze.net/) - The professional trader analytics platform: live prices and charts, aggregated open interest, funding rate, liquidations, statistics, and more.
-- ~~ViewBase](https://www.viewbase.com/) - Aggregated, clean, and actionable data for digital asset markets across exchanges, assets, and instruments.~~ - *It doesn't work anymore.*
+- ~~[ViewBase](https://www.viewbase.com/) - Aggregated, clean, and actionable data for digital asset markets across exchanges, assets, and instruments.~~ - *It doesn't work anymore.*
 - [Datamish](https://datamish.com/) - Longs vs shorts, interest rates, and more.
-- [Cryptorank](https://cryptorank.io/) - Advanced crypto prices list with top gainers, top losers, 
+- [Cryptorank](https://cryptorank.io/) - Advanced crypto prices list with top gainers, top losers, etc.
+- [TokenTerminal](https://tokenterminal.com/explorer) - Many various datasets, stats, and other insights of crypto markets and chains.
+- [AssetDash](https://www.assetdash.com/) - Track your wallets, balances, portfolio, NFTs, etc.
+- [Arkham Inteligence](https://intel.arkm.com/) - Track different wallets on various chains, set alerts, discover ecosystems, and do a lot more analysis on crypto.
+- [DefiLlama](https://defillama.com/) - Legendary onchain analysis tool for experienced users. Find new airdrop opportunities, discover what's happening on-chain, and find trends.
+- [Nansen](https://www.nansen.ai/) - On-Chain analysis tool for tracking ETH wallet activity and their actions. Has a separate section for NFTs.
 
 ### 👓 Blockchain Explorers
 - [Ether Scan](https://etherscan.io/) - Etherum blockchain explorer.
 - [BSC Scan](https://bscscan.com/) - BSC blockchain explorer.
 - [Explorer Solana](https://explorer.solana.com/) - Official SOL blockchain explorer.
 - [SOL Scan](https://solscan.io/) - SOL blockchain explorer.
+- [Solana.fm](https://solana.fm/) - Explore Solana blockchain deeper.
 - [Polygon Scan](https://polygonscan.com/) - Polygon blockchain exploer.
 - [Avax Explorer](https://explorer.avax.network/) - Avalanche blockchain explorer.
+- [Abstract Chain Explorer](https://explorer.mainnet.abs.xyz/) - Abstract Chain explorer.
+- [Base Scan](https://basescan.org/) - Base blockchain explorer.
+- [Arbitrum Scan](https://arbiscan.io/) - Arbitrum blockchain explorer.
 
 ### 🏦 Centralized Exchanges
 - [Binance](https://www.binance.com/) - One of the leading exchanges with the biggest trading volume.
@@ -68,8 +77,8 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [Pancakeswap](https://pancakeswap.finance/) - Swap BSC tokens.
 - [Binance DEX](https://www.binance.org/en) - Powered by Binance. Dex for BSC blockchain tokens.
 - [Raydium](https://raydium.io/swap/) - Swap SOL tokens.
-- [Mango Markets](https://mango.markets/) - Trade spot margined and perpetual futures markets, permissionless and all on-chain. Solana blockchain.
 - 
+
 ### 📱 Mobile Apps for buying and trading
 - [Crypto.com](https://crypto.com/) - Leading mobile app allowing to instantly buy 200+ cryptos. **Issues Visa card!**
 - [Trust Wallet](https://trustwallet.com/) - Hundreds of cryptos supported. Allows buying with a card.
@@ -78,10 +87,10 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 
 ### 🚀 Launchpads
 - [DAO Maker](https://daomaker.com/) - Popular multi-chain launchpad with in-depth research feature.
-- [acceleRaytor](https://raydium.io/acceleRaytor/) - Launchpad for Solana-based tokens.
+- ~~[acceleRaytor](https://raydium.io/acceleRaytor/) - Launchpad for Solana-based tokens.~~ *Discontinued*
 - [Polka Starter](https://polkastarter.com/) - Polka-based launchpad.
 - [Binance Launchpad](https://launchpad.binance.com/en) - Binance's token launch platform.
-- [StarTerra](https://starterra.io/) - the first gamified launchpad for Terra.
+- ~~[StarTerra](https://starterra.io/) - the first gamified launchpad for Terra.~~ *Discontinued after Terra ecosystem crash*
 - [BSCPad](https://bscpad.com/) - The first decentralized IDO platform for the Binance Smart Chain Network.
 - [Seedify](https://launchpad.seedify.fund/) - It's a Blockchain Gaming focused Incubator and Launchpad operating on BSC.
 - [Solanium](https://www.solanium.io/) - Huge launchpad for SOL projects. 
@@ -91,11 +100,9 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [Trust Wallet](https://trustwallet.com/) - One of the most trusted crypto wallets. Also, allows users to see NFT collectibles. Available on iOS and Android. *Listed on Mobile Apps for buying and trading category too.*
 - [Crypto.com](https://crypto.com/) - One of the most popular crypto wallets. Works on mobile devices only. *Listed on Mobile Apps for buying and trading category too.*
 - [Rainbow](https://rainbow.me/) - Simple to use Ethereum-based wallet. Mobile only.
-- [MEW](https://www.myetherwallet.com/) - MyEtherWallet. Supports ERC tokens and NFTs. Works on smartphones only.
 - [WalletConnect](https://walletconnect.com/) - WalletConnect is the web3 standard to connect blockchain wallets to dapps. It supports most of the wallets listed here.
 - [Exodus](https://www.exodus.com/) - Popular multi-assets crypto wallet. Has desktop and mobile versions.
 - [Rabby](https://rabby.io/) - An awesome wallet/browser extension for Ethereum, Base, Arbitrum, Optimism, and many other L2s. Also, supports different L1s. I prefer it over MetaMask or other wallets now.
-- 
 
 #### SOL
 - [Phantom](https://phantom.app/) - Full of features SOL wallet allowing to swap, to see NFTs, staking, and more. Expanding its support now allows holding Ethereum and Bitcoin.
@@ -110,6 +117,12 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [OneKey](https://onekey.so/) - OneKey hardware wallet.
 
 *Attention: Buy hardware wallets only from an official distributor!*
+
+### Crypto Cards
+- [Gnosis Pay](https://gnosispay.com/oginvite?rcc=21d20d106c35&utm_source=referral&utm_campaign=cm5pep8ga009j30ljur8df265) - Gnosis Pay card. Connect directly via on-chain wallet. For EEA countries only.
+- [Bybit Card](https://partner.bybit.com/b/GITMM) - Bybit users can obtain a bank card that is directly connected to their Bybit account. Offers a great cash-back program.
+- [Crypto.com](https://crypto.com/) - Crypto.com issues bank cards for their users. Simple to use.  
+- []() -
 
 ### 📨 Newsletters
 - [Market Meditations](https://koroushak.substack.com/) - An awesome free crypto newsletter with a lot of very useful information. Delivered by [@Koroush AK](https://twitter.com/KoroushAK).
@@ -154,7 +167,7 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [Bybit Learn](https://learn.bybit.com/trading/) - Bybit's trading and investing lessons.
 - [TA Lessons by Hsaka](https://medium.com/@kuraratnit/ta-lessons-by-hsaka-336f2dbb6c1f) - Technical analysis lessons by [@Hsaka](https://twitter.com/HsakaTrades).
 
-### 🐦 Twitters to Follow
+### 🐦 Twitter accounts to Follow
 [Click here to jump to the Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
 
 ## 🖼️ NFTs
@@ -179,16 +192,11 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 #### BSC
 - [Binance NFT](https://www.binance.com/en/nft/home) - Official Binance NFTs marketplace.
 
-#### Other markets
-- [Crypto.com NFTs](https://crypto.com/nft/) - Crypto.com NFTs market (operates on CRO).
-
 ### 👀 NFTs Rarity Check
-- [Rarity Tools](https://rarity.tools/) - Check your ETH NFT rarity.
 - [HowRare.is](https://howrare.is/) - SOL NFTs rarity checker.
-- [Rarity Sniper](https://raritysniper.com/) - Universal NFTs rarity checker that works with SOL and ETH. Also, allows checking the rarity via the Discord server.
-- ~~[Moment Ranks](https://momentranks.com) - Powerful NFTs tool with tons of features. It allows us to follow whales' accounts too.~~ *Not working*
-- [Rarity Sniffer](https://v2.raritysniffer.com/index) - A rarity tool that catches collections shortly after the mint process completes.
-- [MoonRank](https://moonrank.app/) - This holds a big collection of SOL NFTs.
+- ~~[Rarity Sniper](https://raritysniper.com/) - Universal NFTs rarity checker that works with SOL and ETH. Also, allows checking the rarity via the Discord server.~~ *Closed*
+- ~~[Moment Ranks](https://momentranks.com) - Powerful NFTs tool with tons of features. It allows us to follow whales' accounts, too.~~ *Not working*
+- ~~[MoonRank](https://moonrank.app/) - This holds a big collection of SOL NFTs.~~ *Currently not working*
 - ~~[RarityMon](https://www.raritymon.com/) - Universal rarity checker for ETH and SOL.~~ - *Closed*.
 
 ### 📆 Calendars
@@ -196,7 +204,6 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [NFT SOL](https://nftsolana.io/) - A list of upcoming SOL NFTs with Google Calendar feature. *Missing some solid projects*
 
 ## 🔧 Other Tools
-- [Nansen](https://www.nansen.ai/) - On-Chain analysis tool for tracking ETH wallet activity and their actions. Has a separate section for NFTs.
 - ~~[Solradar](https://solradar.io/) - Check floors, volumes, listed count, and more. Works on SOL only.~~ *Closed*
 - ~~[Solanalysis](https://solanalysis.com/) - Market caps, floors, and performance stats of various SOL NFTs. Also, it has a list of upcoming NFTs.~~ *Not working*
 
