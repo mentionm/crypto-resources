@@ -54,6 +54,7 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [Arbitrum Scan](https://arbiscan.io/) - Arbitrum blockchain explorer.
 
 ### 🏦 Centralized Exchanges
+- [OKX](https://www.okx.com/join/GITCR1) - One of the leading crypto exchangs that holds MiCA license and allows Europeans to trade.
 - [Binance](https://www.binance.com/) - One of the leading exchanges with the biggest trading volume.
 - [Binance US](https://www.binance.us/en/home) - Binance version for US.
 - [Coinbase](https://www.coinbase.com/) - Easy to use crypto exchange.
@@ -114,6 +115,7 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [KeepKey](https://www.keepkey.com/) - KeepKey hardware wallet.
 - [Tangem](https://tangem.com/) - Tangem hardware wallet.
 - [OneKey](https://onekey.so/) - OneKey hardware wallet.
+- [Keystone](https://keyst.one/) - Keystone hardware wallet.
 
 *Attention: Buy hardware wallets only from an official distributor!*
 
