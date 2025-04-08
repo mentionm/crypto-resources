@@ -61,13 +61,12 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - ~~[FTX US](https://ftx.us/) - FTX version for US.~~ [FTX bankrupt](https://en.wikipedia.org/wiki/FTX_financial_crisis)
 - [KuCoin](https://www.kucoin.com/) - An exchange with great support of many cryptocurrencies.
 - [Gate.io](https://www.gate.io/) - Many smaller coins are supported on this exchange.
-- [Bybit](https://www.bybit.com/) - Spot and derivatives crypto exchange with a huge volume.
+- [Bybit](https://partner.bybit.com/b/GITMM) - Spot and derivatives crypto exchange with a huge volume.
 - [Bitstamp](https://www.bitstamp.net/) - Trusted crypto exchange operating since 2011.
-- [OKEx](https://www.okex.com/) - Seychelles-based cryptocurrency exchange with a good selection of cryptocurrencies.
 - [Huobi Global](https://www.huobi.com/) - Seychelles-based cryptocurrency founded in China with great volumes.
 - [Bitpanda](https://www.bitpanda.com/) - Austria-based exchange that supports cryptos, stocks, and commodities. Issues a bank card for EU customers.
 - [Deribit](https://www.deribit.com/) - Crypto futures and options exchange.
-- [Bitget](https://www.bitget.com/) - This fast-expanding crypto exchange supports copy-trading and hundreds of tokens.
+- [Bitget](https://partner.bitget.com/bg/Github1) - This fast-expanding crypto exchange supports copy-trading and hundreds of tokens.
 - [MEXC](https://www.mexc.com/) - A crypto exchange that lists many memecoins and other fastly growing tokens. It is a must-have for altcoins and memecoin traders.
 
 ### 💱 Decentralized Exchanges and Swaps
@@ -118,7 +117,7 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 
 *Attention: Buy hardware wallets only from an official distributor!*
 
-### Crypto Cards
+### 💳 Crypto Cards
 - [Gnosis Pay](https://gnosispay.com/oginvite?rcc=21d20d106c35&utm_source=referral&utm_campaign=cm5pep8ga009j30ljur8df265) - Gnosis Pay card. Connect directly via on-chain wallet. For EEA countries only.
 - [Bybit Card](https://partner.bybit.com/b/GITMM) - Bybit users can obtain a bank card that is directly connected to their Bybit account. Offers a great cash-back program.
 - [Crypto.com](https://crypto.com/) - Crypto.com issues bank cards for their users. Simple to use.  
