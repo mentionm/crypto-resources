@@ -4,8 +4,8 @@
 A curated list of various crypto resources for beginners, middle-level, and advanced users.
 You can create Pull Requests with your suggested additions or edits.
 
-**Disclaimer: Do your own due dilligence before using any of the resources provided.
-Twitter acounts to follow is a personal opinion. It contains many Twitter personas that share a lot of good information. However, it must be taken with a grain of salt.**
+**Disclaimer: Do your own due diligence before using any of the resources provided.
+Twitter accounts to follow are a personal opinion. It contains many Twitter personas that share a lot of good information. However, it must be taken with a grain of salt.**
 
 
 ## ₿ Crypto
@@ -32,7 +32,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Coinmarketcap](https://coinmarketcap.com/) - The biggest portal that provides cryptocurrency prices, market cap, 24-hour volume, price changes, and more.
 - [CoinGecko](https://www.coingecko.com/en) - 2nd biggest site for market cap, prices, crypto markets availability, volumes, etc.
 - [Coinalyze](https://coinalyze.net/) - The professional trader analytics platform: live prices and charts, aggregated open interest, funding rate, liquidations, statistics, and more.
-- [ViewBase](https://www.viewbase.com/) - Aggregated, clean, and actionable data for digital asset markets across exchanges, assets and instruments.
+- ~~ViewBase](https://www.viewbase.com/) - Aggregated, clean, and actionable data for digital asset markets across exchanges, assets, and instruments.~~ - *It doesn't work anymore.*
 - [Datamish](https://datamish.com/) - Longs vs shorts, interest rates, and more.
 - [Cryptorank](https://cryptorank.io/) - Advanced crypto prices list with top gainers, top losers, 
 
@@ -50,7 +50,7 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Coinbase](https://www.coinbase.com/) - Easy to use crypto exchange.
 - ~~[FTX](https://ftx.com/) - One of the fastest growing exchanges.~~ [FTX bankrupt](https://en.wikipedia.org/wiki/FTX_financial_crisis)
 - ~~[FTX US](https://ftx.us/) - FTX version for US.~~ [FTX bankrupt](https://en.wikipedia.org/wiki/FTX_financial_crisis)
-- [Kucoin](https://www.kucoin.com/) - An exchange with a great support of many cryptocurrencies.
+- [KuCoin](https://www.kucoin.com/) - An exchange with great support of many cryptocurrencies.
 - [Gate.io](https://www.gate.io/) - Many smaller coins are supported on this exchange.
 - [Bybit](https://www.bybit.com/) - Spot and derivatives crypto exchange with a huge volume.
 - [Bitstamp](https://www.bitstamp.net/) - Trusted crypto exchange operating since 2011.
@@ -58,6 +58,8 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Huobi Global](https://www.huobi.com/) - Seychelles-based cryptocurrency founded in China with great volumes.
 - [Bitpanda](https://www.bitpanda.com/) - Austria-based exchange that supports cryptos, stocks, and commodities. Issues a bank card for EU customers.
 - [Deribit](https://www.deribit.com/) - Crypto futures and options exchange.
+- [Bitget](https://www.bitget.com/) - This fast-expanding crypto exchange supports copy-trading and hundreds of tokens.
+- [MEXC](https://www.mexc.com/) - A crypto exchange that lists many memecoins and other fastly growing tokens. It is a must-have for altcoins and memecoin traders.
 
 ### 💱 Decentralized Exchanges and Swaps
 - [Uniswap](https://uniswap.org/) - Swap ERC tokens.
@@ -67,13 +69,12 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Binance DEX](https://www.binance.org/en) - Powered by Binance. Dex for BSC blockchain tokens.
 - [Raydium](https://raydium.io/swap/) - Swap SOL tokens.
 - [Mango Markets](https://mango.markets/) - Trade spot margined and perpetual futures markets, permissionless and all on-chain. Solana blockchain.
-- [Bonfida DEX](https://dex.bonfida.org) - Decentralised exchange operating on SOL blockchain.
-
+- 
 ### 📱 Mobile Apps for buying and trading
 - [Crypto.com](https://crypto.com/) - Leading mobile app allowing to instantly buy 200+ cryptos. **Issues Visa card!**
 - [Trust Wallet](https://trustwallet.com/) - Hundreds of cryptos supported. Allows buying with a card.
 
-*There are hundreds of crypto exchanges and apps available. Here is mentioned only the most popular and well-known sites. You can use [Coingecko crypto exchanges list](https://www.coingecko.com/en/exchanges) by volume, number of coins, pairs, etc.*
+*There are hundreds of crypto exchanges and apps available. Here are mentioned only the most popular and well-known sites. You can use [Coingecko crypto exchanges list](https://www.coingecko.com/en/exchanges) by volume, number of coins, pairs, etc.*
 
 ### 🚀 Launchpads
 - [DAO Maker](https://daomaker.com/) - Popular multi-chain launchpad with in-depth research feature.
@@ -87,28 +88,31 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 
 ### 👛 Wallets 
 - [Metamask](https://metamask.io/) - Most popular crypto wallet & gateway to blockchain apps. Supports Ethereum, BSC, Avax, and many more blockchains.
-- [Trust Wallet](https://trustwallet.com/) - One of the most trusted crypto wallets. Also, allows see NFT collectibles. Available on iOS and Android. *Listed on Mobile Apps for buying and trading category too.*
+- [Trust Wallet](https://trustwallet.com/) - One of the most trusted crypto wallets. Also, allows users to see NFT collectibles. Available on iOS and Android. *Listed on Mobile Apps for buying and trading category too.*
 - [Crypto.com](https://crypto.com/) - One of the most popular crypto wallets. Works on mobile devices only. *Listed on Mobile Apps for buying and trading category too.*
 - [Rainbow](https://rainbow.me/) - Simple to use Ethereum-based wallet. Mobile only.
 - [MEW](https://www.myetherwallet.com/) - MyEtherWallet. Supports ERC tokens and NFTs. Works on smartphones only.
 - [WalletConnect](https://walletconnect.com/) - WalletConnect is the web3 standard to connect blockchain wallets to dapps. It supports most of the wallets listed here.
 - [Exodus](https://www.exodus.com/) - Popular multi-assets crypto wallet. Has desktop and mobile versions.
+- [Rabby](https://rabby.io/) - An awesome wallet/browser extension for Ethereum, Base, Arbitrum, Optimism, and many other L2s. Also, supports different L1s. I prefer it over MetaMask or other wallets now.
+- 
 
 #### SOL
-- [Phantom](https://phantom.app/) - Full of features SOL wallet allowing to swap, to see NFTs, staking, and more.
-- [Solflare](https://solflare.com/) - A non-custodial wallet for Solana. Swap, stake, hold.
+- [Phantom](https://phantom.app/) - Full of features SOL wallet allowing to swap, to see NFTs, staking, and more. Expanding its support now allows holding Ethereum and Bitcoin.
+- [Solflare](https://solflare.com/) - A non-custodial wallet for Solana. Swap, stake, and hold.
+- [Backpack](https://backpack.app/) - Convenient and easy-to-use wallet for Solana users. It's a great choice for the mobile wallet, too.
 
 #### 🔒 Hardware wallets
 - [Ledger](https://www.ledger.com/) - Ledger hardware wallet.
 - [Trezor](https://trezor.io/) - Trezor hardware wallet.
 - [KeepKey](https://shapeshift.com/keepkey) - KeepKey hardware wallet.
 
-*Attention: Buy hardware wallet only from an official distributor!*
+*Attention: Buy hardware wallets only from an official distributor!*
 
 ### 📨 Newsletters
 - [Market Meditations](https://koroushak.substack.com/) - An awesome free crypto newsletter with a lot of very useful information. Delivered by [@Koroush AK](https://twitter.com/KoroushAK).
 - [TechnicalRoundup](https://technicalroundup.com/) - Technical crypto analysis.
-- [Coindesk Newsletter](https://www.coindesk.com/newsletters/) - a number of newsletters by different topics. Powered by Coindesk news portal.
+- [Coindesk Newsletter](https://www.coindesk.com/newsletters/) - a number of newsletters by different topics. Powered by CoinDesk news portal.
 - [The Held Report](https://www.theheldreport.com/) - Delivered by growth at Kraken exchange, [@Dan Held](https://twitter.com/danheld).
 - [Cobie's Newsletter](https://cobie.substack.com/) - Deeper insights about crypto markets action and fundamentals.
 - [Messari Newsletter](https://messari.io/newsletter) - Top crypto news every day, every morning.
@@ -183,17 +187,17 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Rarity Sniper](https://raritysniper.com/) - Universal NFTs rarity checker that works with SOL and ETH. Also, allows checking the rarity via the Discord server.
 - ~~[Moment Ranks](https://momentranks.com) - Powerful NFTs tool with tons of features. It allows us to follow whales' accounts too.~~ *Not working*
 - [Rarity Sniffer](https://v2.raritysniffer.com/index) - A rarity tool that catches collections shortly after the mint process completes.
-- [MoonRank](https://moonrank.app/) - Holds a big collection of SOL NFTs.
-- [RarityMon](https://www.raritymon.com/) - Universal rarity checker for ETH and SOL.
+- [MoonRank](https://moonrank.app/) - This holds a big collection of SOL NFTs.
+- ~~[RarityMon](https://www.raritymon.com/) - Universal rarity checker for ETH and SOL.~~ - *Closed*.
 
 ### 📆 Calendars
-- [NFT Calendar](https://nftcalendar.io/) - a database of upcoming NFT drops (both, SOL and ETH).
+- [NFT Calendar](https://nftcalendar.io/) - a database of upcoming NFT drops (both SOL and ETH).
 - [NFT SOL](https://nftsolana.io/) - A list of upcoming SOL NFTs with Google Calendar feature. *Missing some solid projects*
 
 ## 🔧 Other Tools
-- [Nansen](https://www.nansen.ai/) - On-Chain analysis tool for tracking ETH wallets activity and their actions. Has a separate section for NFTs.
+- [Nansen](https://www.nansen.ai/) - On-Chain analysis tool for tracking ETH wallet activity and their actions. Has a separate section for NFTs.
 - ~~[Solradar](https://solradar.io/) - Check floors, volumes, listed count, and more. Works on SOL only.~~ *Closed*
-- ~~[Solanalysis](https://solanalysis.com/) - Market caps, floors, and performance stats of various SOL NFTs. Also, has a list of Upcoming NFTs.~~ *Not working*
+- ~~[Solanalysis](https://solanalysis.com/) - Market caps, floors, and performance stats of various SOL NFTs. Also, it has a list of upcoming NFTs.~~ *Not working*
 
 ### 📨 Newsletters
 -[Zima Red](https://andrewsteinwold.substack.com/) - Deep dive into the NFT markets. Provided by [@Andrew Steinwold](https://twitter.com/AndrewSteinwold).
@@ -204,12 +208,12 @@ Twitter acounts to follow is a personal opinion. It contains many Twitter person
 - [Floor is Rising](https://www.floorisrising.com/) - Discussions with artists and NFTs pros. Available on all podcast platforms.
 - [Deeze Spaces](https://open.spotify.com/show/4HzjKTLo8v17qJZaIwCl15?si=zEzkcTqUQyqTvjjmSGxHdQ&dl_branch=1&nd=1) - Chats with the most interesting creators and collectors in the NFT world.
 - [Two Bored Apes](https://www.twoboredapes.com/) -  Two friends that just love talking about NFTs. On this podcast, they chat about whatever new and exciting stuff is going on in the NFT space.
-- [Modern Finance](https://modern.finance/) - Wide range of podcasts about DeFi, crypto, etc. Lately, making lots of content about NFTs.
+- [Modern Finance](https://modern.finance/) - A Wide range of podcasts about DeFi, crypto, etc. Lately, been making lots of content about NFTs.
 
-### 🐧 Twitters to Follow NFTs
+### 🐧 Twitter to Follow NFTs
 [Click here to jump to the Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
 
-***Attention: Double-check the links before registering, logging in, or connecting to the Dapp using Metamask, Phantom or any other wallet.***
+***Attention: Double-check the links before registering, logging in, or connecting to the Dapp using Metamask, Phantom, or any other wallet.***
 
 
-***Last update: 11/08/2023***
+***Last update: 08/04/2025***
