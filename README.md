@@ -86,7 +86,7 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [Seedify](https://launchpad.seedify.fund/) - It's a Blockchain Gaming focused Incubator and Launchpad operating on BSC.
 - [Solanium](https://www.solanium.io/) - Huge launchpad for SOL projects. 
 
-### 👛 Wallets 
+### 👛 Web3 Wallets 
 - [Metamask](https://metamask.io/) - Most popular crypto wallet & gateway to blockchain apps. Supports Ethereum, BSC, Avax, and many more blockchains.
 - [Trust Wallet](https://trustwallet.com/) - One of the most trusted crypto wallets. Also, allows users to see NFT collectibles. Available on iOS and Android. *Listed on Mobile Apps for buying and trading category too.*
 - [Crypto.com](https://crypto.com/) - One of the most popular crypto wallets. Works on mobile devices only. *Listed on Mobile Apps for buying and trading category too.*
@@ -105,13 +105,14 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 #### 🔒 Hardware wallets
 - [Ledger](https://www.ledger.com/) - Ledger hardware wallet.
 - [Trezor](https://trezor.io/) - Trezor hardware wallet.
-- [KeepKey](https://shapeshift.com/keepkey) - KeepKey hardware wallet.
+- [KeepKey](https://www.keepkey.com/) - KeepKey hardware wallet.
+- [Tangem](https://tangem.com/) - Tangem hardware wallet.
+- [OneKey](https://onekey.so/) - OneKey hardware wallet.
 
 *Attention: Buy hardware wallets only from an official distributor!*
 
 ### 📨 Newsletters
 - [Market Meditations](https://koroushak.substack.com/) - An awesome free crypto newsletter with a lot of very useful information. Delivered by [@Koroush AK](https://twitter.com/KoroushAK).
-- [TechnicalRoundup](https://technicalroundup.com/) - Technical crypto analysis.
 - [Coindesk Newsletter](https://www.coindesk.com/newsletters/) - a number of newsletters by different topics. Powered by CoinDesk news portal.
 - [The Held Report](https://www.theheldreport.com/) - Delivered by growth at Kraken exchange, [@Dan Held](https://twitter.com/danheld).
 - [Cobie's Newsletter](https://cobie.substack.com/) - Deeper insights about crypto markets action and fundamentals.
@@ -128,7 +129,7 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 ### 📹 Youtube Channels
 - [Andreas Antonopoulos](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ) - aantonop's YouTube channel is THE place to find free, unbiased educational videos on all things Bitcoin and open blockchain.
 - [UpOnlyTV](https://uponly.tv/) - Brought by [@Cobie](https://twitter.com/cobie) and [Ledger](https://twitter.com/ledgerstatus). Live on [Twitch](https://twitch.tv/uponlytv). Available in the form of podcasts on Spotify, Google, and Apple.
-- [Altcoin Psycho](https://www.youtube.com/c/AltcoinPsycho) - official [@Altcoin Psycho](https://twitter.com/AltcoinPsycho) Youtube channel discussing crypto markets.
+- ~~[Altcoin Psycho](https://www.youtube.com/c/AltcoinPsycho) - official [@Altcoin Psycho](https://twitter.com/AltcoinPsycho) Youtube channel discussing crypto markets.~~ *Removed all videos*
 - [Crypto Cred](https://www.youtube.com/c/CryptoCred) -  Cryptocurrency technical analysis, with a focus on Bitcoin price action and educational content.
 - [TechnicalRoundup](https://www.youtube.com/c/TechnicalRoundup) -  TechnicalRoundup is a cryptocurrency trading and analysis channel hosted by CryptoDonAlt and CryptoCred. The newsletter and podcast are also available.
 - [The Birb Nest](https://www.youtube.com/c/TheBirbNest) - crypto market reviews, on-chain analysis, and a lot of educational content about crypto technologies.
@@ -200,15 +201,15 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - ~~[Solanalysis](https://solanalysis.com/) - Market caps, floors, and performance stats of various SOL NFTs. Also, it has a list of upcoming NFTs.~~ *Not working*
 
 ### 📨 Newsletters
--[Zima Red](https://andrewsteinwold.substack.com/) - Deep dive into the NFT markets. Provided by [@Andrew Steinwold](https://twitter.com/AndrewSteinwold).
--[Milk Road](https://milkroad.com/) - Daily recap of the most important events in the crypto space. Also, some tips & insights. *Recommended*
--[Alpha Packed](https://alphapacked.io/) - 7 minutes daily recap of crypto news & the biggest events.
+- [Zima Red](https://andrewsteinwold.substack.com/) - Deep dive into the NFT markets. Provided by [@Andrew Steinwold](https://twitter.com/AndrewSteinwold).
+- [Milk Road](https://milkroad.com/) - Daily recap of the most important events in the crypto space. Also, some tips & insights. *Recommended*
+- [Alpha Packed](https://alphapacked.io/) - 7 minutes daily recap of crypto news & the biggest events.
 
 ### 🗣️ Podcasts
 - [Floor is Rising](https://www.floorisrising.com/) - Discussions with artists and NFTs pros. Available on all podcast platforms.
 - [Deeze Spaces](https://open.spotify.com/show/4HzjKTLo8v17qJZaIwCl15?si=zEzkcTqUQyqTvjjmSGxHdQ&dl_branch=1&nd=1) - Chats with the most interesting creators and collectors in the NFT world.
 - [Two Bored Apes](https://www.twoboredapes.com/) -  Two friends that just love talking about NFTs. On this podcast, they chat about whatever new and exciting stuff is going on in the NFT space.
-- [Modern Finance](https://modern.finance/) - A Wide range of podcasts about DeFi, crypto, etc. Lately, been making lots of content about NFTs.
+- ~~[Modern Finance](https://modern.finance/) - A Wide range of podcasts about DeFi, crypto, etc. Lately, been making lots of content about NFTs.~~ *Discontinued*
 
 ### 🐧 Twitter to Follow NFTs
 [Click here to jump to the Twitter list](https://github.com/mentionm/crypto-resources/blob/main/twitter.md)
