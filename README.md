@@ -202,7 +202,7 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 
 ### 📆 Calendars
 - [NFT Calendar](https://nftcalendar.io/) - a database of upcoming NFT drops (both SOL and ETH).
-- [NFT SOL](https://nftsolana.io/) - A list of upcoming SOL NFTs with Google Calendar feature. *Missing some solid projects*
+- [NFT SOL](https://nftsolana.io/) - A list of upcoming SOL NFTs with a Google Calendar feature. *Missing some solid projects*
 
 ## 🔧 Other Tools
 - ~~[Solradar](https://solradar.io/) - Check floors, volumes, listed count, and more. Works on SOL only.~~ *Closed*
@@ -216,7 +216,7 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 ### 🗣️ Podcasts
 - [Floor is Rising](https://www.floorisrising.com/) - Discussions with artists and NFTs pros. Available on all podcast platforms.
 - [Deeze Spaces](https://open.spotify.com/show/4HzjKTLo8v17qJZaIwCl15?si=zEzkcTqUQyqTvjjmSGxHdQ&dl_branch=1&nd=1) - Chats with the most interesting creators and collectors in the NFT world.
-- [Two Bored Apes](https://www.twoboredapes.com/) -  Two friends that just love talking about NFTs. On this podcast, they chat about whatever new and exciting stuff is going on in the NFT space.
+- [Two Bored Apes](https://www.twoboredapes.com/) -  Two friends who just love talking about NFTs. On this podcast, they chat about whatever new and exciting stuff is going on in the NFT space.
 - ~~[Modern Finance](https://modern.finance/) - A Wide range of podcasts about DeFi, crypto, etc. Lately, been making lots of content about NFTs.~~ *Discontinued*
 
 ### 🐧 Twitter to Follow NFTs
@@ -224,5 +224,6 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 
 ***Attention: Double-check the links before registering, logging in, or connecting to the Dapp using Metamask, Phantom, or any other wallet.***
 
+***Powered by [Dexs.trade](https://dexs.trade)***
 
-***Last update: 08/04/2025***
+***Last update: 23/05/2025***
