@@ -140,7 +140,7 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [What Bitcoin Did](https://www.whatbitcoindid.com/) - Host [Peter McCormack](https://twitter.com/PeterMcCormack) interviews experts in the world of Bitcoin development, privacy, investment and adoption.
 - [Untold Stories](https://blockworks.co/podcasts/untold-stories/) - Host [Charlie Shrem](https://twitter.com/CharlieShrem) dives deep into the lives and personal histories of some of crypto’s most influential leaders. A focus on personal stories weaves together a nuanced, untold narrative of how the crypto movement truly came to be.
 - [Empire](https://blockworks.co/podcasts/empire/) - Hosted by [Jason Yanowitz](https://twitter.com/JasonYanowitz), co-founder of Blockworks, the Empire podcast features interviews with top crypto founders to get the real stories that aren’t publicly shared about building companies.
-- [The Wolf of All Streets](https://www.thewolfofallstreets.io/podcast/) - Podcast presented by [Scott Melker](https://twitter.com/scottmelker) talks to your favorite characters from the world of Bitcoin, trading, finance, music, art, and anyone else with an interesting story to tell. 
+- [The Wolf of All Streets](https://www.thewolfofallstreets.io/podcast/) - Podcast presented by [Scott Melker](https://twitter.com/scottmelker) talks to your favourite characters from the world of Bitcoin, trading, finance, music, art, and anyone else with an interesting story to tell. 
 
 ### 📹 Youtube Channels
 - [Andreas Antonopoulos](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ) - aantonop's YouTube channel is THE place to find free, unbiased educational videos on all things Bitcoin and open blockchain.
@@ -177,15 +177,15 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 
 ### 🛍️ Markets 
 #### ETH
-- [Opensea](https://opensea.io/) - Biggest ETH NFTs market today.
+- [Opensea](https://opensea.io/) - Biggest ETH NFTs market today. Supports many other networks as well.
 - [Super Rare](https://superrare.com/) - Great place to buy digital art from top artists.
 - [Rarible](https://rarible.com/) - Huge ETH NFTs market with a great community.
 - [Foundation](https://foundation.app/) - Another awesome ETH NFTs marketplace with tons of great art.
 
 #### SOL
-- [Solanart](https://solanart.io/) - One of the most popular SOL NFTs market.
+- [Magic Eden](https://magiceden.io/) - Leading SOL NFTs marketplace with Launchpad for artists. Supports lots of other chains too!
+- [Solanart](https://solanart.io/) - One of the most popular SOL NFT marketplaces.
 - [Alpha.art](https://alpha.art/) - SOL NFTs marketplace with no fees.
-- [Magic Eden](https://magiceden.io/) - SOL NFTs marketplace with Launchpad for artists.
 - [Digital Eyes](https://digitaleyes.market/) - Solana's first open marketplace.
 - [SolSea](https://solsea.io/) - SOL NFTs marketplace that allows embedding copyright licenses when minting.
 - [Exchange Art](https://exchange.art/) - SOL NFTs marketplace with a FLEX function.
@@ -226,6 +226,4 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 
 ***Attention: Double-check the links before registering, logging in, or connecting to the Dapp using Metamask, Phantom, or any other wallet.***
 
-***Powered by [Dexs.trade](https://dexs.trade)***
-
-***Last update: 23/05/2025***
+***Last update: 19/02/2026***
