@@ -40,7 +40,8 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [Arkham Inteligence](https://intel.arkm.com/) - Track different wallets on various chains, set alerts, discover ecosystems, and do a lot more analysis on crypto.
 - [DefiLlama](https://defillama.com/) - Legendary onchain analysis tool for experienced users. Find new airdrop opportunities, discover what's happening on-chain, and find trends.
 - [Nansen](https://www.nansen.ai/) - On-Chain analysis tool for tracking ETH wallet activity and their actions. Has a separate section for NFTs.
-- [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges. 
+- [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
+- [Augea](https://augea.io) - Snapshot-backed crypto exchange fee comparison across countries, assets, and payment rails. Every number links to a reproducible snapshot with transparent provenance.
 
 
 ### 👓 Blockchain Explorers
