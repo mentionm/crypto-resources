@@ -18,6 +18,7 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [Block Works](https://blockworks.co/)
 - [Decryt](https://decrypt.co/)
 - [Bitcoin Magazine](https://bitcoinmagazine.com/)
+- [La Gazette Crypto](https://lagazettecrypto.fr/)
 
 *Mainstream media channels. Take their news with a grain of salt.*
 - [Yahoo Finance](https://finance.yahoo.com/topic/crypto/)
