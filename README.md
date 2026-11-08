@@ -55,6 +55,9 @@ Twitter accounts to follow are a personal opinion. It contains many Twitter pers
 - [Base Scan](https://basescan.org/) - Base blockchain explorer.
 - [Arbitrum Scan](https://arbiscan.io/) - Arbitrum blockchain explorer.
 
+### 🔎 Exchange Due Diligence
+- [Holder.io exchange registry](https://holder.io/registry/) - Search selected public crypto-service registration records by legal name or website and follow official-source links. Coverage is limited. Registration does not establish safety or individual eligibility.
+
 ### 🏦 Centralized Exchanges
 - [OKX](https://www.okx.com/join/GITCR1) - One of the leading crypto exchangs that holds MiCA license and allows Europeans to trade.
 - [Binance](https://www.binance.com/) - One of the leading exchanges with the biggest trading volume.
